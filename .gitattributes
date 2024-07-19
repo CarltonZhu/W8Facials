@@ -1,3 +1,7 @@
 *.uasset filter=lfs diff=lfs merge=lfs -text
 
 *talking.fbx filter=lfs diff=lfs merge=lfs -text
+
+Playthrough.mkv filter=lfs diff=lfs merge=lfs -text
+
+Assets/Test2.mkv filter=lfs diff=lfs merge=lfs -text
